@@ -1,9 +1,9 @@
 [{
 	"id": 1,
-	"category": "SwiftUI",
+	"category": "Kollegastøtte",
 	"content": {
 		"id": 0,
-		"image": "swiftUI",
+		"image": "headsup",
 		"time": "2 hours",
 		"description": "Discover the innovative and simple way to build apps on Apple platforms, especially iOS.",
 		"lessons": [{
