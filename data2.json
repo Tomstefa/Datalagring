@@ -60,79 +60,79 @@
 	"test": {
 		"id": 0,
 		"image": "swiftUI",
-		"time": "30 minutes",
-		"description": "Test your knowledge of SwiftUI.",
+		"time": "5 minutter",
+		"description": "Test deg selv om kollegastøtte",
 		"questions": [{
 				"id": 0,
-				"content": "<p>Every SwiftUI app has exactly one scene to which contains a view hierarchy.</p>",
+				"content": "<p>Vurder følgende påstand: Kollegastøtte skal være høyterskeltilbud</p>",
 				"correctIndex": 1,
 				"answers": [
-					"true",
-					"false"
+					"Sant",
+					"Usant"
 				]
 			},
 			{
 				"id": 1,
-				"content": "<p>How can you customize the display and behaviour of a view in SwiftUI?</p>",
+				"content": "<p>Hvilken samtalemetode benyttes i kollegastøtte?</p>",
 				"correctIndex": 2,
 				"answers": [
-					"Change it in the storyboard",
-					"Conform it to the appropriate delegate protocol",
-					"Using modifiers",
-					"You can't"
+					"RITZ",
+					"FITS",
+					"RITS",
+					"OBOS"
 				]
 			},
 			{
 				"id": 2,
-				"content": "<p>Which of the following allows you to display a table?</p>",
+				"content": "<p>Hvem kan be om kollegastøtte?</p>",
 				"correctIndex": 3,
 				"answers": [
-					"VStack",
-					"HStack",
-					"ZStack",
-					"List"
+					"Ingen. Kollegastøtte vurderer selv hvem som skal få samtale",
+					"Nærmeste leder",
+					"Øverste leder",
+					"Alle"
 				]
 			},
 			{
 				"id": 3,
-				"content": "<p>You can define custom paths to create shapes in SwiftUI.</p>",
+				"content": "<p>Vurder påstanden: Privatlivet kan virke på hvordan vi har det på jobb</p>",
 				"correctIndex": 0,
 				"answers": [
-					"true",
-					"false"
+					"Sant",
+					"Usant"
 				]
 			},
 			{
 				"id": 4,
-				"content": "<p>Select the best answer.</p>",
+				"content": "<p>Velg riktig svar</p>",
 				"correctIndex": 3,
 				"answers": [
-					"You can add SwiftUI views to a storyboard-based app using hosting controllers",
-					"You can add UIKit views to a SwiftUI project using representable objects",
-					"SwiftUI and UIKit are separate, and shouldn't be integrated",
-					"Answers 1 and 2"
+					"Emosjonell oppfølgning av ansatte er ikke viktig",
+					"Det skal loggføres hvem som deltar i alle samtaler",
+					"Ordningen med kollegastøtte skal erstatte god ledelse, HMS og BHT",
+					"En samtale er fortolig og anonym"
 				]
 			},
 			{
 				"id": 5,
-				"content": "<p>In SwiftUI, interfaces are created:</p>",
+				"content": "<p>Når bruker vi kollegastøtten?</p>",
 				"correctIndex": 2,
 				"answers": [
-					"Procedurally",
-					"Dynamically",
-					"Declaratively",
-					"Eccentrically"
+					"Når nærmeste leder føler for det",
+					"Aldri",
+					"Ved tydelig adferds endring",
+					"Når det er lenge siden sist"
 				]
 			},
 			{
 				"id": 6,
-				"content": "<p>Prefixing a property wrapped property with $ will access its",
+				"content": "<p>Kan vi bruke kollegastøtten ved trusler mot ansatte?",
 				"correctIndex": 1,
 				"answers": [
-					"Wrapped value",
-					"Projected value",
-					"Financial value",
-					"That's invalid syntax"
+					"Nei, dette må vi tåle",
+					"Ja",
+					"Det spørs om vedkommende er tøff eller ikke",
+					"Det er opp til nærmeste leder"
 				]
 			}
 		]
