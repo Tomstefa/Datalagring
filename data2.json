@@ -42,15 +42,15 @@
 				"explanation": "<p>Her kan det komme tekst: <ul><li>Punktliste</li><li>Stikkord</li><li>Slides fra powerpoint</li></ul></p>"		},
 			{
 				"id": 5,
-				"title": "Hvem kan be om det?",
-				"video": "SwiftUI%20trimmed.mp4",
+				"title": "Forskning på stress",
+				"video": "Arendal.mp4",
 				"duration": "10 minutter",
 				"explanation": "<p>Her kan det komme tekst: <ul><li>Punktliste</li><li>Stikkord</li><li>Slides fra powerpoint</li></ul></p>"
 			},
 			{
 				"id": 6,
-				"title": "Hvem kan vi samarbeide med i distriktet?",
-				"video": "SwiftUI%20trimmed.mp4",
+				"title": "Hva er stress?",
+				"video": "Stress.mp4",
 				"duration": "10 minutter",
 				"explanation": "<p>Her kan det komme tekst: <ul><li>Punktliste</li><li>Stikkord</li><li>Slides fra powerpoint</li></ul></p>"
 			}
