@@ -59,7 +59,7 @@
 	},
 	"test": {
 		"id": 0,
-		"image": "swiftUI",
+		"image": "quiz",
 		"time": "5 minutter",
 		"description": "Test deg selv om kollegastøtte",
 		"questions": [{
