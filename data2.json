@@ -63,7 +63,7 @@
 		"description": "Test deg selv om kollegastøtte",
 		"questions": [{
 				"id": 0,
-				"content": "<p>Vurder følgende påstand: Kollegastøtte skal være høyterskeltilbud</p>",
+				"content": "<p>Vurder f&oslash;lgende p&aelig;stand: Kollegast&oslash;tte skal være h&oslash;yterskeltilbud</p>",
 				"correctIndex": 1,
 				"answers": [
 					"Sant",
@@ -72,7 +72,7 @@
 			},
 			{
 				"id": 1,
-				"content": "<p>Hvilken samtalemetode benyttes i kollegastøtte?</p>",
+				"content": "<p>Hvilken samtalemetode benyttes i kollegast&oslash;tte?</p>",
 				"correctIndex": 2,
 				"answers": [
 					"RITZ",
@@ -83,7 +83,7 @@
 			},
 			{
 				"id": 2,
-				"content": "<p>Hvem kan be om kollegastøtte?</p>",
+				"content": "<p>Hvem kan be om kollegast&oslash;tte?</p>",
 				"correctIndex": 3,
 				"answers": [
 					"Ingen. Kollegastøtte vurderer selv hvem som skal få samtale",
@@ -94,7 +94,7 @@
 			},
 			{
 				"id": 3,
-				"content": "<p>Vurder påstanden: Privatlivet kan virke på hvordan vi har det på jobb</p>",
+				"content": "<p>Vurder p&aelig;standen: Privatlivet kan virke p&aelig; hvordan vi har det p&aelig; jobb</p>",
 				"correctIndex": 0,
 				"answers": [
 					"Sant",
@@ -114,7 +114,7 @@
 			},
 			{
 				"id": 5,
-				"content": "<p>Når bruker vi kollegastøtten?</p>",
+				"content": "<p>N&aelig;r bruker vi kollegast&oslash;tten?</p>",
 				"correctIndex": 2,
 				"answers": [
 					"Når nærmeste leder føler for det",
@@ -125,7 +125,7 @@
 			},
 			{
 				"id": 6,
-				"content": "<p>Kan vi bruke kollegastøtten ved trusler mot ansatte?",
+				"content": "<p>Kan vi bruke kollegast&oslash;tten ved trusler mot ansatte?",
 				"correctIndex": 1,
 				"answers": [
 					"Nei, dette må vi tåle",
