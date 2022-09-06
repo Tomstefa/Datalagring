@@ -63,7 +63,7 @@
 		"description": "Test deg selv om kollegastøtte",
 		"questions": [{
 				"id": 0,
-				"content": "<p>Vurder f&oslash;lgende p&aring;stand: Kollegast&oslash;tte skal være h&oslash;yterskeltilbud</p>",
+				"content": "<p>Vurder f&oslash;lgende p&aring;stand: Kollegast&oslash;tte skal v&aering;re h&oslash;yterskeltilbud</p>",
 				"correctIndex": 1,
 				"answers": [
 					"Sant",
