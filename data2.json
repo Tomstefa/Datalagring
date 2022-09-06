@@ -114,7 +114,7 @@
 			},
 			{
 				"id": 5,
-				"content": "<p>N&aelig;r bruker vi kollegast&oslash;tten?</p>",
+				"content": "<p>N&aring;r bruker vi kollegast&oslash;tten?</p>",
 				"correctIndex": 2,
 				"answers": [
 					"Når nærmeste leder føler for det",
